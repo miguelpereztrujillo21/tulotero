@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Administraciones</string>
+    <string name="hint_search">Buscar …</string>
+    <string name="not_results_text">No se han encontrado Administraciones con esa descripción</string>
+</resources>
